@@ -5,6 +5,8 @@
   ```
   # GTest, Gdal ...
   apt-get install libgtest-dev libgdal-dev libproj-dev libgl2ps-dev
+  # libXrender
+  apt-get install libxrender1
   # XercesC
   apt install libxerces-c-dev
   ```
